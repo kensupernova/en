@@ -23,8 +23,8 @@ nav:
     url: /archive/
   - text: About
     url: /about/
-  - text: App
-    url: /cn/apps/
+  # - text: App
+  #   url: /cn/apps/
 
 # comment config
 disqus:
