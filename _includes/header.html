@@ -13,9 +13,13 @@
                 {% assign active = 'nav-item-active' %}
               {% endif %}
               <li class="nav-item {{ active }}">
-                  <a href="{{ site.url }}{{ link.url }}">
+                  <a href="{{ site.baseurl }}{{ link.url }}">
                       {{ link.text }}
                   </a>
+
+                  <<!-- a href="{{ site.url }}{{ link.url }}">
+                      {{ link.text }}
+                  </a> -->
                   {{ indicator }}
               </li>
             {% endfor %}
