@@ -31,6 +31,3 @@ disqus:
   config: true
   id: guanghuiz
 
-duoshuo:
-  config: false
-  id: kensupernova
