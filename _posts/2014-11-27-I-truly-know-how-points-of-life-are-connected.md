@@ -2,8 +2,8 @@
 layout: post
 title:  "I know the points of life"
 date:   2014-11-27
-categories: jekyll
-tags: jekyll
+categories: daily 
+tags: daily  
 ---
 Today I truely found how the points of life <!--more-->
 are connected. I learned java, python, django, aws, android,
