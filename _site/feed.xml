@@ -5,15 +5,17 @@
     <description>Know all about me from here.</description>
     <link>http://www.guanghuiz.com/en/en/</link>
     <atom:link href="http://www.guanghuiz.com/en/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 May 2016 19:02:26 +0800</pubDate>
-    <lastBuildDate>Sat, 28 May 2016 19:02:26 +0800</lastBuildDate>
+    <pubDate>Sat, 28 May 2016 19:20:32 +0800</pubDate>
+    <lastBuildDate>Sat, 28 May 2016 19:20:32 +0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
         <title>Data Exploration with R -  Quality of Red Wine</title>
-        <description>&lt;p&gt;Use R to explore the dataset of Redwine with the objective to find the most relevant metrics of red wine to its quality score.&lt;/p&gt;
+        <description>&lt;p&gt;The dataset contains 1600 kinds of red wines. Each wine was rated by profesionalists with a quality score ranging from 0 to 10. And the chemical compositions of each red wine was measured. Use R to explore the dataset of Red Wine with the objective to find the most relevant metrics of red wine to its quality score.
+&lt;/p&gt;
 
-&lt;p&gt;Click to view the &lt;a href=&quot;/en/data-science/data-exploration-project-1.html&quot;&gt;data exploration project&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Click to download &lt;a href=&quot;/en/data/wineQualityReds.csv&quot;&gt;red wine dataset&lt;/a&gt;&lt;br /&gt;
+Click to view the &lt;a href=&quot;/en/data-science/data-exploration-project-1.html&quot;&gt;data exploration project&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 May 2016 00:00:00 +0800</pubDate>
         <link>http://www.guanghuiz.com/en/en/datascience/2016/05/28/data-exploration-with-r-1/</link>
@@ -47,9 +49,10 @@
     
       <item>
         <title>Interactive Data Visualization of Baseball Player Dataset</title>
-        <description>&lt;p&gt;D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3js is an technology to create interactive data visualization. From my experience with d3js, it is really flexible to use. I created a visualization on a baseball data sets and tried to explore whether the physical characteristics are related with their scores on the match field. &lt;/p&gt;
-
-&lt;p&gt;Click to view the &lt;a href=&quot;/en/data-science/data-visual-project-1.html&quot;&gt;data visualization project&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3.js is an technology to create interactive data visualization. From my experience with d3js, it is really flexible to use. I created a visualization on a baseball player data sets and tried to explore whether the physical characteristics are related with their scores on the match field. 
+&lt;/p&gt;
+&lt;p&gt;Click to download &lt;a href=&quot;/en/data/baseball_data.csv&quot;&gt;baseball player dataset&lt;/a&gt; &lt;br /&gt;
+Click to view the &lt;a href=&quot;/en/data-science/data-visual-project-1.html&quot;&gt;data visualization project&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Oct 2015 00:00:00 +0800</pubDate>
         <link>http://www.guanghuiz.com/en/en/datascience/2015/10/31/data-visualization-project-1/</link>
