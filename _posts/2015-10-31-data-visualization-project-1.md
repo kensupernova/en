@@ -2,7 +2,7 @@
 layout: post
 title:  "Interactive Data Visualization of Baseball Player Dataset"  
 date:   2015-10-31
-categories: datascience
+categories: data science
 tags: data science, data viz
 custom_js: 
   - a_d3_demo
