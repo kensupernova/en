@@ -2,7 +2,7 @@
 layout: post
 title:  "I know the points of life"
 date:   2014-11-27
-categories: daily blog 
+categories: blog 
 tags: blog  
 ---
 Today I truely found how the points of life <!--more-->

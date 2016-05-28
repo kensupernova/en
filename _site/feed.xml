@@ -5,8 +5,8 @@
     <description>Know all about me from here.</description>
     <link>http://www.guanghuiz.com/en/en/</link>
     <atom:link href="http://www.guanghuiz.com/en/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 May 2016 19:20:32 +0800</pubDate>
-    <lastBuildDate>Sat, 28 May 2016 19:20:32 +0800</lastBuildDate>
+    <pubDate>Sat, 28 May 2016 20:40:25 +0800</pubDate>
+    <lastBuildDate>Sat, 28 May 2016 20:40:25 +0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -18,8 +18,8 @@
 Click to view the &lt;a href=&quot;/en/data-science/data-exploration-project-1.html&quot;&gt;data exploration project&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 May 2016 00:00:00 +0800</pubDate>
-        <link>http://www.guanghuiz.com/en/en/datascience/2016/05/28/data-exploration-with-r-1/</link>
-        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/datascience/2016/05/28/data-exploration-with-r-1/</guid>
+        <link>http://www.guanghuiz.com/en/en/data-science/2016/05/28/data-exploration-with-r-1/</link>
+        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/data-science/2016/05/28/data-exploration-with-r-1/</guid>
         
         <category>data</category>
         
@@ -30,7 +30,7 @@ Click to view the &lt;a href=&quot;/en/data-science/data-exploration-project-1.h
         <category>explore</category>
         
         
-        <category>datascience</category>
+        <category>data-science</category>
         
       </item>
     
@@ -55,8 +55,8 @@ Click to view the &lt;a href=&quot;/en/data-science/data-exploration-project-1.h
 Click to view the &lt;a href=&quot;/en/data-science/data-visual-project-1.html&quot;&gt;data visualization project&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Oct 2015 00:00:00 +0800</pubDate>
-        <link>http://www.guanghuiz.com/en/en/datascience/2015/10/31/data-visualization-project-1/</link>
-        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/datascience/2015/10/31/data-visualization-project-1/</guid>
+        <link>http://www.guanghuiz.com/en/en/data-science/2015/10/31/data-visualization-project-1/</link>
+        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/data-science/2015/10/31/data-visualization-project-1/</guid>
         
         <category>data</category>
         
@@ -67,7 +67,7 @@ Click to view the &lt;a href=&quot;/en/data-science/data-visual-project-1.html&q
         <category>viz</category>
         
         
-        <category>datascience</category>
+        <category>data-science</category>
         
       </item>
     
@@ -80,15 +80,15 @@ Click to view the &lt;a href=&quot;/en/data-science/data-visual-project-1.html&q
 &lt;!--more--&gt;
 </description>
         <pubDate>Fri, 12 Dec 2014 00:00:00 +0800</pubDate>
-        <link>http://www.guanghuiz.com/en/en/daily/2014/12/12/the-year-of-2014/</link>
-        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/daily/2014/12/12/the-year-of-2014/</guid>
+        <link>http://www.guanghuiz.com/en/en/blog/2014/12/12/the-year-of-2014/</link>
+        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/blog/2014/12/12/the-year-of-2014/</guid>
         
         <category>daily,</category>
         
         <category>2014</category>
         
         
-        <category>daily</category>
+        <category>blog</category>
         
       </item>
     
@@ -100,13 +100,13 @@ just by interest. Now I found all thesse could come together
 to help me build an android app and its backend api.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Nov 2014 00:00:00 +0800</pubDate>
-        <link>http://www.guanghuiz.com/en/en/jekyll/2014/11/27/i-truly-know-how-points-of-life-are-connected/</link>
-        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/jekyll/2014/11/27/i-truly-know-how-points-of-life-are-connected/</guid>
+        <link>http://www.guanghuiz.com/en/en/blog/2014/11/27/i-truly-know-how-points-of-life-are-connected/</link>
+        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/blog/2014/11/27/i-truly-know-how-points-of-life-are-connected/</guid>
         
-        <category>jekyll</category>
+        <category>blog</category>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
       </item>
     
