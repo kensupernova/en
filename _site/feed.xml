@@ -5,17 +5,55 @@
     <description>Know all about me from here.</description>
     <link>http://www.guanghuiz.com/en/en/</link>
     <atom:link href="http://www.guanghuiz.com/en/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 18 Feb 2016 18:42:54 +0800</pubDate>
-    <lastBuildDate>Thu, 18 Feb 2016 18:42:54 +0800</lastBuildDate>
+    <pubDate>Sat, 28 May 2016 18:42:27 +0800</pubDate>
+    <lastBuildDate>Sat, 28 May 2016 18:42:27 +0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
-        <title>D3JS is cool</title>
-        <description>&lt;p&gt;This is a demo of D3js. try….&lt;/p&gt;
+        <title>Data Exploration with R -  Quality of Red Wine</title>
+        <description>&lt;p&gt;Use R to explore the dataset of Redwine with the objective to find the most relevant metrics of red wine to its quality score.&lt;/p&gt;
+
+&lt;p&gt;Click to view the &lt;a href=&quot;/en/data-science/data-exploration-project-1.html&quot;&gt;data exploration project&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 May 2016 00:00:00 +0800</pubDate>
+        <link>http://www.guanghuiz.com/en/en/datascience/2016/05/28/data-exploration-with-r-1/</link>
+        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/datascience/2016/05/28/data-exploration-with-r-1/</guid>
+        
+        <category>data</category>
+        
+        <category>science,</category>
+        
+        <category>data</category>
+        
+        <category>explore</category>
+        
+        
+        <category>datascience</category>
+        
+      </item>
+    
+      <item>
+        <title>Listen and Listen Well</title>
+        <description>&lt;p&gt;Today I watched a very informative and educative video named &lt;a href=&quot;https://youtu.be/H6n3iNh4XLI&quot;&gt;“How to be a better conversationalist”&lt;/a&gt;. In the video, the speaker gave a dozes of advice on how to make a better conversation when talking with people, among which the last one is to listen. This is not the first time when I heard people stressed the importance of listening. But none had mentioned the fundamental reason and objective behind listening. I totally agreed that quick reply was not the objective of erecting our ears and attentively receiving the sound waves others uttered from the mouth. We need to do so because we want to understand what people are saying. Listening consumes more energy than speaking because it requires our brain to finish these tasks, receiving the sound, interpreting the words, and processing the information of the sentences, etc. Listen, and Listen well. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Feb 2016 00:00:00 +0800</pubDate>
+        <link>http://www.guanghuiz.com/en/en/blog/2016/02/29/listen-and-listen-well/</link>
+        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/blog/2016/02/29/listen-and-listen-well/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Interactive Data Visualization of Baseball Player Dataset</title>
+        <description>&lt;p&gt;D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3js is an technology to create interactive data visualization. From my experience with d3js, it is really flexible to use. I created a visualization on a baseball data sets and tried to explore whether the physical characteristics are related with their scores on the match field. &lt;/p&gt;
+
+&lt;p&gt;Click to view the &lt;a href=&quot;/en/data-science/data-visual-project-1.html&quot;&gt;data visualization project&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Oct 2015 00:00:00 +0800</pubDate>
-        <link>http://www.guanghuiz.com/en/en/datascience/2015/10/31/d3js-is-cool/</link>
-        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/datascience/2015/10/31/d3js-is-cool/</guid>
+        <link>http://www.guanghuiz.com/en/en/datascience/2015/10/31/data-visualization-project-1/</link>
+        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/datascience/2015/10/31/data-visualization-project-1/</guid>
         
         <category>data</category>
         
@@ -63,19 +101,6 @@ to help me build an android app and its backend api.&lt;/p&gt;
         <guid isPermaLink="true">http://www.guanghuiz.com/en/en/jekyll/2014/11/27/i-truly-know-how-points-of-life-are-connected/</guid>
         
         <category>jekyll</category>
-        
-        
-        <category>jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>I finished this blog</title>
-        <description>&lt;p&gt;Today I finished this blog. I had added post, archive, category, comment. Yeah, go!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://www.guanghuiz.com/en/en/jekyll/2014/07/16/i-finished-this-blog/</link>
-        <guid isPermaLink="true">http://www.guanghuiz.com/en/en/jekyll/2014/07/16/i-finished-this-blog/</guid>
         
         
         <category>jekyll</category>

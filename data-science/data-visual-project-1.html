@@ -34,12 +34,12 @@
       position: fixed;
       top: 150px;
       left: 5px;
-      font-size: 25px;
+      font-size: 15px;
       font-family: sans-serif;
     }
 
     div.group_axiss div{
-      width: 200px;  
+      width: 150px;  
       height: 50px;
       background: rgb(251, 201, 127);
       padding: 3px;
@@ -427,6 +427,11 @@
           axiss.transition()
               .duration(1000)
               .remove();
+
+          var ken_func = function(d){
+            return d['key'];
+
+          };
           
           // debugger;   
           var circles1 = svg.selectAll('circle')
@@ -612,19 +617,19 @@
           // add label for the regression line
           svg.append("svg:line")
               .attr("class", "regression")
-              .attr("x1", width-550)
-              .attr("y1", 200)
-              .attr("x2", width-450)
-              .attr("y2", 200)
+              .attr("x1", width-150)
+              .attr("y1", 100)
+              .attr("x2", width-100)
+              .attr("y2", 100)
               .style("stroke", "green")
               .style("stroke-width", "5px");
 
           svg.append("text")
             .attr("class", "legend")
             .attr("text-anchor", "end")
-            .attr("y", 200)
-            .attr("x", width-200)
-            .attr("font-size", "25")
+            .attr("y", 100)
+            .attr("x", width+50)
+            .attr("font-size", "15")
             .text("Linear regression line");
 
         };
@@ -799,9 +804,10 @@
   </script>
 </head>
 <body>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js">
+</script>
   <script type="text/javascript">
-    d3.csv("data/baseball_data.csv", draw);
+    d3.csv("../data/baseball_data.csv", draw);
   </script>
 
 </body>
